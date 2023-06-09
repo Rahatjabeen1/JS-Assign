@@ -1,2 +1,2 @@
 # JS-Assign
-JS-Assignmnet of 57 Chapters
+JS-Assignmnet of 67 Chapters
